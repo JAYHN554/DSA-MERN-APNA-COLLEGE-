@@ -10,7 +10,6 @@ This repository contains my **notes**, **solved problems**, and **projects** cre
 2. [💻 DSA in Java](#-dsa-in-java)  
 3. [🌐 MERN Stack Development](#-mern-stack-development)  
 4. [🚀 Tech Stack](#-tech-stack)  
-5. [📚 Resources](#-resources)
 
 ---
 
