@@ -4,7 +4,7 @@ public class pattern6 {
         for(i=1;i<=5;i++){
             for(j=1;j<=i;j++){
                 System.out.print(+k+" ");
-                k++;
+                k=k+2;
             }
             System.out.println();
         }
