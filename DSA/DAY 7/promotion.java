@@ -3,6 +3,7 @@ public class promotion {
         int ch='a';
         short a=50;
         int sum=ch+a;
+        System.out.println((int)(ch));
         System.out.println(sum);
     }
 }
