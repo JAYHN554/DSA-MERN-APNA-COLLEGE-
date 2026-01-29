@@ -5,10 +5,10 @@ public class promotion {
         // int sum=ch+a;
         // System.out.println((int)(ch));
         // System.out.println(sum);
-        int a=10;
-        float f=10.56;
+          int a=10;
+        float f=10.56f;
         long c=25;
-        double ans=a+b+c;
+        int  sum=(int)(a+f+c);
         System.out.println(sum);
     }
 }
