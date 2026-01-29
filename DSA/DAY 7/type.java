@@ -8,6 +8,9 @@ public class type {
         // long a =5;
         // // int b=a;
         // System.err.println(b);
+        
+        float number = in.nextInt();
+        System.out.println(number);
     }
 
 }
