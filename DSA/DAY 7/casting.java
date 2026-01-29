@@ -11,5 +11,10 @@ public class casting {
         float marks = 99.99f;
         int marks2= (int)marks;
         System.out.println(marks2);
+         char ch= 'a';
+        int aa= ch;
+        char ch1 ='b';
+        int bb = ch1;
+        System.err.println(aa+ " " +bb);
     }
 }
